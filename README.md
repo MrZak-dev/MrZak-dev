@@ -18,7 +18,7 @@ Feel free to explore my repositories to find more exciting projects.
 💬 **Get in Touch**:
 
 - 📧 **Email**: [zakaria.guenna@gmail.com](mailto:zakaria.guenna@gmail.com)
-- 🐦 **Twitter**: [@MrZak-dev](https://twitter.com/MrZak-dev)
+- 🐦 **Twitter**: [@mrzakdev](https://twitter.com/mrzakdev)
 
 🤝 **Support Me**:
 
