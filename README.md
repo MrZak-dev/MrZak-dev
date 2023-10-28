@@ -1,5 +1,6 @@
 # Hello, I'm Zakaria
 
+
 🎮 **Game Development Expertise**:
 - **Engines**: Godot, Cocos, Unity (occasionally)
 - **Languages**: C#, GDScript, C++
@@ -20,4 +21,5 @@ Feel free to explore my repositories to find more exciting projects.
 
 🤝 **Support Me**:
 
-[Support me on Ko-fi](https://ko-fi.com/mrzak)
+[![Support me on Ko-fi](https://cdn.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/mrzak)
+
