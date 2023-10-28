@@ -1,7 +1,5 @@
 # Hello, I'm Zakaria
 
-I'm a passionate game developer with experience in various game engines, including Godot and Cocos. Here, you'll find a collection of my open-source game projects and resources.
-
 🎮 **Game Development Expertise**:
 - **Engines**: Godot, Cocos, Unity (occasionally)
 - **Languages**: C#, GDScript, C++
