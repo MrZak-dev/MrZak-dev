@@ -2,8 +2,8 @@
 
 
 🎮 **Game Development Expertise**:
-- **Engines**: Godot, Cocos, Unity (occasionally)
-- **Languages**: C#, GDScript, C++
+- **Engines**: Godot, Cocos, Unity
+- **Languages**: C#, GDScript, TypeScript/JS
 - **Genres**: 2D and 3D games, mobile, PC, and web
 - **Skills**: Gameplay programming, multiplayer, and more
 
@@ -17,7 +17,7 @@ Feel free to explore my repositories to find more exciting projects.
 💬 **Get in Touch**:
 
 - 📧 **Email**: [zakaria.guenna@gmail.com](mailto:zakaria.guenna@gmail.com)
-- 🐦 **Twitter**: [@mrzakdev](https://twitter.com/mrzakdev)
+- 🐦 **𝕏**: [@mrzakdev](https://x.com/mrzakdev)
 
 🤝 **Support Me**:
 
