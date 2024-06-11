@@ -20,8 +20,3 @@ Feel free to explore my repositories to find more exciting projects.
 
 - 📧 **Email**: [zakaria.guenna@gmail.com](mailto:zakaria.guenna@gmail.com)
 - **𝕏**: [@mrzakdev](https://x.com/mrzakdev)
-
-🤝 **Support Me**:
-
-[![Support me on Ko-fi](https://cdn.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/mrzak)
-
