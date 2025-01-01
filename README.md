@@ -4,8 +4,8 @@
 🎮 **Game Development Expertise**:
 - **Engines**: Godot, Cocos, Unity
 - **Languages**: C#, GDScript, TypeScript/JS
-- **Genres**: 2D and 3D games, mobile, PC, and web
-- **Skills**: Gameplay programming, multiplayer, and more
+- **Platforms**: **Mobile (ios/android)**, Web and Desktop (Windows/Mac)
+- **Skills**:  2D/3D Gameplay programming, multiplayer, and more
 
 🚀 **Featured Projects**:
 
