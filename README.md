@@ -5,7 +5,7 @@
 - **Engines**: Godot, Cocos, Unity
 - **Languages**: C#, GDScript, TypeScript/JS
 - **Platforms**: **Mobile (ios/android)**, Web and Desktop (Windows/Mac)
-- **Skills**:  2D/3D Gameplay programming, multiplayer, and more
+- **Skills**:  2D/3D Gameplay programming, multiplayer, interactive Apps and simulations.
 
 🚀 **Featured Projects**:
 
