@@ -1,4 +1,4 @@
-# Mobile Games Deceloper
+# Mobile Games Developer
 
 
 🎮 **Game Development Expertise**:
