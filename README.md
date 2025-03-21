@@ -2,7 +2,7 @@
 
 
 🎮 **Game Development Expertise**:
-- **Engines**: Godot, Cocos, Unity
+- **Engines**: Godot, Unity, Cocos Creator
 - **Languages**: C#, GDScript, TypeScript/JS
 - **Platforms**: **Mobile (ios/android)**, Web and Desktop (Windows/Mac)
 - **Skills**:  2D/3D Gameplay programming, multiplayer, interactive Apps and simulations.
@@ -16,7 +16,10 @@
 
 Feel free to explore my repositories to find more exciting projects.
 
+
 💬 **Get in Touch**:
 
 - 📧 **Email**: [zakaria.guenna@gmail.com](mailto:zakaria.guenna@gmail.com)
 - **𝕏**: [@mrzakdev](https://x.com/mrzakdev)
+
+[![Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=MrZak-dev&limit=10&theme=dark)]([https://github.com/MrZak-dev](https://github.com/LordDashMe/github-contribution-stats)/)
