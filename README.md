@@ -66,7 +66,7 @@ I work with **Godot**, **Unity**, and **Cocos Creator**, and I enjoy turning gam
 ---
 
 ## GitHub Stats
-<div align="center"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrZak-dev&theme=tokyonight" alt="Zakaria Guenna most used languages by commit" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=MrZak-dev&theme=tokyonight&hide_border=true" alt="Zakaria Guenna GitHub streak" /> </div>
+<div align="center"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrZak-dev&theme=tokyonight" alt="Zakaria Guenna top languages by repository" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=MrZak-dev&theme=tokyonight&hide_border=true" alt="Zakaria Guenna GitHub streak" /> </div>
 
 ---
 
