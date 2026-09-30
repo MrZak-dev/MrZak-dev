@@ -2,7 +2,7 @@
 
 # Hi, I'm Zakaria Guenna
 
-### Software Engineer | C# / .NET | Godot & Interactive Applications
+### Software Engineer | C# / .NET | Godot Game Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MrZak-dev&style=for-the-badge&color=0e75b6)](https://github.com/MrZak-dev)
 [![GitHub followers](https://img.shields.io/github/followers/MrZak-dev?logo=github&style=for-the-badge&color=181717)](https://github.com/MrZak-dev?tab=followers)
@@ -15,13 +15,13 @@
 
 ## About Me
 
-I'm a software engineer focused on C# and .NET application development, with professional experience building interactive 3D tools and Android applications. I enjoy turning real product needs into maintainable software through object-oriented design, clear module boundaries, and practical testing.
+I'm a software engineer and Godot game developer working across C#/.NET applications, 2D and 3D games, and interactive tools. I enjoy turning product and gameplay ideas into maintainable software through object-oriented design, clear module boundaries, responsive mechanics, and practical testing.
 
-My project work also includes ASP.NET Core Web APIs, .NET MAUI and Blazor applications, xUnit tests, desktop applications, and containerized development environments. Godot remains one of my strongest tools for building 2D/3D applications and integrating native Android SDKs.
+My software engineering work includes ASP.NET Core Web APIs, .NET MAUI and Blazor applications, xUnit tests, desktop applications, and containerized development environments. In Godot, I build 2D and 3D gameplay, mobile games, multiplayer experiences, and native Android integrations using C#, GDScript, and Java.
 
 ---
 
-## Software Engineering & Interactive Development
+## Software Engineering & Game Development
 
 ### Frameworks & Core Technologies
 
@@ -38,7 +38,7 @@ My project work also includes ASP.NET Core Web APIs, .NET MAUI and Blazor applic
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Cocos](https://img.shields.io/badge/Cocos_Creator-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
 
-Godot is my strongest engine; I have also used Unity and Cocos Creator in projects.
+Godot is my strongest engine for game development and interactive 2D/3D projects; I have also used Unity and Cocos Creator.
 
 ### Languages
 
@@ -78,11 +78,10 @@ Godot is my strongest engine; I have also used Unity and Cocos Creator in projec
 
 ---
 
-## Featured Projects
+## Featured Godot & Game Projects
 
 | Project | Description | Link |
 | --- | --- | --- |
-| [**Nakama Godot .NET Demo**](https://github.com/MrZak-dev/NakamaGodot.NET) | Built a Godot C# demo backed by Nakama and a local Docker Compose environment. | [Repository](https://github.com/MrZak-dev/NakamaGodot.NET) |
 | [**Godot 4 Android Ads**](https://github.com/MrZak-dev/Godot-4-Android-Ads) | Developed Java and GDScript bridges that connect Godot with AdMob and AppLovin Android SDKs. | [Library](https://github.com/MrZak-dev/Godot-4-Android-Ads) · [Plugin](https://github.com/MrZak-dev/Godot-4-Android-Ads-Plugin) |
 | **Bounce3D** | A 3D bouncing game built for quick, entertaining play sessions. | [Watch](https://www.youtube.com/shorts/zLBOZCfi7xE) |
 | **Karta Online** | An online card game for players who enjoy strategy and competitive challenges. | [Watch](https://www.youtube.com/watch?v=3mxSt4iZ3AM&t=38s) |
@@ -101,8 +100,6 @@ Godot is my strongest engine; I have also used Unity and Cocos Creator in projec
 ---
 
 ## Let's Connect
-
-I'm open to software engineering opportunities involving C#/.NET, web or mobile applications, and interactive tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria_Guenna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-guenna)
 [![Email](https://img.shields.io/badge/Email-zakaria.guenna%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakaria.guenna@gmail.com)
