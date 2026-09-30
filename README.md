@@ -55,8 +55,6 @@ Godot is my strongest engine; I have also used Unity and Cocos Creator in projec
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-My application work spans Android, web, Windows, iOS, and macOS through native, web, and cross-platform development.
-
 ### Engineering Skills
 
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-512BD4?style=for-the-badge)
