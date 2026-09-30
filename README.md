@@ -17,17 +17,19 @@
 
 I'm a software engineer focused on C# and .NET application development, with professional experience building interactive 3D tools and Android applications. I enjoy turning real product needs into maintainable software through object-oriented design, clear module boundaries, and practical testing.
 
-My project work also includes ASP.NET Core Web APIs, xUnit tests, desktop applications, and containerized development environments. Godot remains one of my strongest tools for building 2D/3D applications and integrating native Android SDKs.
+My project work also includes ASP.NET Core Web APIs, .NET MAUI and Blazor applications, xUnit tests, desktop applications, and containerized development environments. Godot remains one of my strongest tools for building 2D/3D applications and integrating native Android SDKs.
 
 ---
 
 ## Software Engineering & Interactive Development
 
-### Core Technologies
+### Frameworks & Core Technologies
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Engines
@@ -53,7 +55,7 @@ Godot is my strongest engine; I have also used Unity and Cocos Creator in projec
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-My professional and project experience includes Android, web, and Windows. iOS and macOS are part of my current cross-platform learning.
+My application work spans Android, web, Windows, iOS, and macOS through native, web, and cross-platform development.
 
 ### Engineering Skills
 
@@ -69,13 +71,6 @@ My professional and project experience includes Android, web, and Windows. iOS a
 ![Multiplayer](https://img.shields.io/badge/Multiplayer-7B61FF?style=for-the-badge)
 ![Simulations](https://img.shields.io/badge/Interactive_Simulations-FFB703?style=for-the-badge)
 ![Mobile Games](https://img.shields.io/badge/Mobile_Games-06D6A0?style=for-the-badge)
-
-### Currently Learning
-
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor Hybrid](https://img.shields.io/badge/Blazor_Hybrid-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-
-I'm currently building my cross-platform skills with .NET MAUI and Blazor Hybrid.
 
 ---
 
