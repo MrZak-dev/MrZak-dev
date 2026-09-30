@@ -83,8 +83,6 @@ I'm currently building my cross-platform skills with .NET MAUI and Blazor Hybrid
 
 | Project | Description | Link |
 | --- | --- | --- |
-| [**Shelf Builder**](https://conceptsauce.com/solutions/shelf-builder/) | Contributed C# and GDScript features to a commercial 3D shelf configuration tool for consumer research. | [Product](https://conceptsauce.com/solutions/shelf-builder/) |
-| [**OCP Electrical Equipment Database**](https://github.com/MrZak-dev/ocp_group_elect_db) | Built a desktop application to search, filter, and organize equipment records and technical sheets during a software development internship. | [Repository](https://github.com/MrZak-dev/ocp_group_elect_db) |
 | [**Nakama Godot .NET Demo**](https://github.com/MrZak-dev/NakamaGodot.NET) | Built a Godot C# demo backed by Nakama and a local Docker Compose environment. | [Repository](https://github.com/MrZak-dev/NakamaGodot.NET) |
 | [**Godot 4 Android Ads**](https://github.com/MrZak-dev/Godot-4-Android-Ads) | Developed Java and GDScript bridges that connect Godot with AdMob and AppLovin Android SDKs. | [Library](https://github.com/MrZak-dev/Godot-4-Android-Ads) · [Plugin](https://github.com/MrZak-dev/Godot-4-Android-Ads-Plugin) |
 | **Bounce3D** | A 3D bouncing game built for quick, entertaining play sessions. | [Watch](https://www.youtube.com/shorts/zLBOZCfi7xE) |
