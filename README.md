@@ -55,20 +55,26 @@ Godot is my strongest engine; I have also used Unity and Cocos Creator in projec
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### Engineering Skills
+### Skills
 
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-512BD4?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge)
 ![Native SDK Integration](https://img.shields.io/badge/Native_SDK_Integration-3DDC84?style=for-the-badge)
 
-### Interactive Skills
-
 ![2D Gameplay](https://img.shields.io/badge/2D_Gameplay-FF6B6B?style=for-the-badge)
 ![3D Gameplay](https://img.shields.io/badge/3D_Gameplay-4ECDC4?style=for-the-badge)
 ![Multiplayer](https://img.shields.io/badge/Multiplayer-7B61FF?style=for-the-badge)
 ![Simulations](https://img.shields.io/badge/Interactive_Simulations-FFB703?style=for-the-badge)
 ![Mobile Games](https://img.shields.io/badge/Mobile_Games-06D6A0?style=for-the-badge)
+
+---
+
+## Certifications
+
+- **[AI Pair Programming with GitHub Copilot](https://www.linkedin.com/learning/certificates/15b4cc2c766cd03097cd4356424444489f581c7ebb683af973d1e51d1aaf11ba?u=134335242)** — LinkedIn, September 2026.
+- **[Software Design and Architecture Specialization](https://www.coursera.org/account/accomplishments/specialization/2OP60TQ7M2J3)** — University of Alberta, October 2024.
+- **[Service-Oriented Architecture](https://www.coursera.org/account/accomplishments/verify/7MC7U06DHGRH)** — University of Alberta, October 2024.
 
 ---
 
